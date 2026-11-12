@@ -87,13 +87,10 @@ endmodule
 ## Truth Table
 
 ### 2:1 Multiplexer
-
-<img width="573" height="154" alt="image" src="https://github.com/user-attachments/assets/96dd3fa2-7747-402d-b88f-17c11e28fcbb" />
+<img src="https://github.com/user-attachments/assets/96dd3fa2-7747-402d-b88f-17c11e28fcbb" width="573" />
 
 ### 1:2 Demultiplexer
-
-<img width="583" height="90" alt="image" src="https://github.com/user-attachments/assets/4bc21b52-1db5-4302-afab-ebb0b9d5a74b" />
-
+<img src="https://github.com/user-attachments/assets/4bc21b52-1db5-4302-afab-ebb0b9d5a74b" width="583" />
 ## Simulation Procedure
 
 STEP 1 – Open Terminal
@@ -147,13 +144,7 @@ The 2:1 Multiplexer and 1:2 Demultiplexer were realized using Verilog HDL:
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 ## Output
-
-<img width="720" height="357" alt="WhatsApp Image 2026-11-12 at 9 43 24 PM" src="https://github.com/user-attachments/assets/d09993f5-bec8-4efe-b3d4-f1f935ea16fe" />
-
-
-
-
-
+<img width="720" height="357" alt="Output Image" src="https://github.com/user-attachments/assets/d09993f5-bec8-4efe-b3d4-f1f935ea16fe" />
 ## Viva-Voce Questions
 
 •	What is a Multiplexer, and why is it called a 'data selector'?
